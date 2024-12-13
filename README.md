@@ -15,6 +15,6 @@ apt-get --purge remove zipalign -y
 
 ### how to install tools in 1 commands
 ```
-git clone https://github.com/K1M4K-ID/fix-zipalign;cd fix-zipalign;chmod +x fix-zipalign.sh;bash fix-zipalign.sh
+git clone https://github.com/wolfhx9/Fix-Zipalign;cd fix-zipalign;chmod +x fix-zipalign.sh;bash fix-zipalign.sh
 
 ```
